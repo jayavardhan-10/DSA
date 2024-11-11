@@ -9,6 +9,7 @@ class Solution {
             if(jewels.contains(String.valueOf(c)))
             {
                 count++;
+                // this is the count increamentation
             }
         }
 
